@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="suss">成功</string>
+    <string name="notify">發出通知</string>
+</resources>
